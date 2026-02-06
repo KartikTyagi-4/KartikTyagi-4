@@ -1,4 +1,3 @@
-## Hi there 👋
 # 💫 About Me:
 Kartik here 👋<br>Java | Python | Web Technologies<br>Learning, building, and improving every day 🚀
 
